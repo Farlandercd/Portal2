@@ -7,6 +7,7 @@ gem 'rails', '3.2.6'
 
 gem 'devise'
 gem 'simple_form'
+gem 'json' '1.7.3'
 
 group :development, :test do
 	gem 'sqlite3'
